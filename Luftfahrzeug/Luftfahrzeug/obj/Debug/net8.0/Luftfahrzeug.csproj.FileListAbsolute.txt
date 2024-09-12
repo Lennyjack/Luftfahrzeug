@@ -1,0 +1,14 @@
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\bin\Debug\net8.0\Luftfahrzeug.exe
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\bin\Debug\net8.0\Luftfahrzeug.deps.json
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\bin\Debug\net8.0\Luftfahrzeug.runtimeconfig.json
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\bin\Debug\net8.0\Luftfahrzeug.dll
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\bin\Debug\net8.0\Luftfahrzeug.pdb
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\Luftfahrzeug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\Luftfahrzeug.AssemblyInfoInputs.cache
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\Luftfahrzeug.AssemblyInfo.cs
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\Luftfahrzeug.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\Luftfahrzeug.dll
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\refint\Luftfahrzeug.dll
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\Luftfahrzeug.pdb
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\Luftfahrzeug.genruntimeconfig.cache
+C:\Users\Jack\Desktop\Schule_Aufgaben\Modul 320\Luftfahrzeuge\Luftfahrzeug\Luftfahrzeug\obj\Debug\net8.0\ref\Luftfahrzeug.dll
